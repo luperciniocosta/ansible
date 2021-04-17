@@ -1,0 +1,5 @@
+[ansibleserver]
+192.168.3.71
+
+[dbserver]
+192.168.3.72
