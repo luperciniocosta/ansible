@@ -89,7 +89,7 @@ git remote add origin git@github-admin1x:luperciniocosta/ansible.git
 
 
 
-#lupercinio.costa@gmail.com
+#lupercinio.costa-at-gmail.com
 #https://github.com/luperciniocosta/ansible
 
 ```
